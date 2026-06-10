@@ -66,7 +66,7 @@ export default {
 :root {
   --primary-color: #822c4a;
   --secondary-color: #885f5f;
-  --accent-color: #c892a8;
+  --accent-color: #fa0467;
   --dark-color: #885f5f;
   --light-color: #f5ebed;
   --gray-color: #93797d;
